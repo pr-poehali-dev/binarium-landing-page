@@ -60,7 +60,7 @@ const Index = () => {
               </span>
             </div>
             <h1 className="text-4xl md:text-6xl font-bold leading-tight">
-              Торгуйте бинарными опционами с максимальной выгодой
+              Binarium - торгуйте бинарными опционами с максимальной выгодой
             </h1>
             <p className="text-lg md:text-xl text-white/90 max-w-2xl mx-auto">
               Надежная платформа для трейдинга с доходностью до 90%. Быстрый
@@ -111,7 +111,7 @@ const Index = () => {
         <div className="container mx-auto px-4">
           <div className="text-center max-w-3xl mx-auto mb-12">
             <h2 className="text-3xl md:text-4xl font-bold mb-4">
-              Торгуйте в реальном времени
+              Торгуйте в реальном времени на Бинариум
             </h2>
             <p className="text-muted-foreground text-lg">
               Следите за движением цены и открывайте сделки прямо сейчас
@@ -320,7 +320,7 @@ const Index = () => {
                 className="border border-border rounded-lg px-6 bg-card"
               >
                 <AccordionTrigger className="text-left font-semibold hover:no-underline py-6">
-                  Какой минимальный депозит и сумма сделки?
+                  Какой минимальный депозит и сумма сделки на Binarium?
                 </AccordionTrigger>
                 <AccordionContent className="text-muted-foreground pb-6">
                   Минимальный депозит на Binarium составляет всего $10, что
@@ -336,7 +336,7 @@ const Index = () => {
                 className="border border-border rounded-lg px-6 bg-card"
               >
                 <AccordionTrigger className="text-left font-semibold hover:no-underline py-6">
-                  Как быстро можно вывести деньги?
+                  Как быстро можно вывести деньги на Binarium?
                 </AccordionTrigger>
                 <AccordionContent className="text-muted-foreground pb-6">
                   Вывод средств на Binarium обрабатывается в течение 24 часов с
@@ -370,7 +370,7 @@ const Index = () => {
                 className="border border-border rounded-lg px-6 bg-card"
               >
                 <AccordionTrigger className="text-left font-semibold hover:no-underline py-6">
-                  Какие активы доступны для торговли?
+                  Какие активы доступны для торговли на Binarium?
                 </AccordionTrigger>
                 <AccordionContent className="text-muted-foreground pb-6">
                   На Binarium доступно более 100 торговых активов: валютные пары
@@ -387,7 +387,7 @@ const Index = () => {
                 className="border border-border rounded-lg px-6 bg-card"
               >
                 <AccordionTrigger className="text-left font-semibold hover:no-underline py-6">
-                  Есть ли обучение для новичков?
+                  Есть ли обучение для новичков на Binarium?
                 </AccordionTrigger>
                 <AccordionContent className="text-muted-foreground pb-6">
                   Да, Binarium предоставляет полный пакет обучающих материалов
@@ -404,7 +404,7 @@ const Index = () => {
                 className="border border-border rounded-lg px-6 bg-card"
               >
                 <AccordionTrigger className="text-left font-semibold hover:no-underline py-6">
-                  Какая доходность на платформе?
+                  Какая доходность на платформе Binarium?
                 </AccordionTrigger>
                 <AccordionContent className="text-muted-foreground pb-6">
                   Доходность на Binarium достигает до 90% с каждой успешной
@@ -422,7 +422,7 @@ const Index = () => {
                 className="border border-border rounded-lg px-6 bg-card"
               >
                 <AccordionTrigger className="text-left font-semibold hover:no-underline py-6">
-                  Можно ли торговать с мобильного телефона?
+                  Можно ли торговать с мобильного телефона на Binarium?
                 </AccordionTrigger>
                 <AccordionContent className="text-muted-foreground pb-6">
                   Да, Binarium имеет мобильные приложения для iOS и Android, а
@@ -439,7 +439,7 @@ const Index = () => {
                 className="border border-border rounded-lg px-6 bg-card"
               >
                 <AccordionTrigger className="text-left font-semibold hover:no-underline py-6">
-                  Есть ли скрытые комиссии?
+                  Есть ли скрытые комиссии на Binarium?
                 </AccordionTrigger>
                 <AccordionContent className="text-muted-foreground pb-6">
                   Нет, Binarium не взимает скрытых комиссий. Все условия
