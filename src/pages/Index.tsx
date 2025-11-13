@@ -67,10 +67,6 @@ const Index = () => {
               вывод средств и круглосуточная поддержка.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center pt-4">
-              <Input
-                placeholder="Введите email"
-                className="max-w-xs bg-white text-primary placeholder:text-muted-foreground h-12"
-              />
               <Button
                 size="lg"
                 className="bg-secondary hover:bg-secondary/90 text-white h-12 px-8"
