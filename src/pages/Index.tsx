@@ -75,7 +75,9 @@ const Index = () => {
                 size="lg"
                 className="bg-secondary hover:bg-secondary/90 text-white h-12 px-8"
               >
-                Начать торговать
+                <a href="https://clck.biz/shared-reg?mode=iframe&partner_id=p37962p132354paf68">
+                  Начать торговать
+                </a>
                 <Icon name="ArrowRight" className="ml-2" size={20} />
               </Button>
             </div>
@@ -477,7 +479,9 @@ const Index = () => {
                 size="lg"
                 className="bg-primary hover:bg-primary/90 text-white h-12 px-8"
               >
-                Открыть счет бесплатно
+                <a href="https://clck.biz/shared-reg?mode=iframe&partner_id=p37962p132354paf68">
+                  Открыть счет бесплатно
+                </a>
                 <Icon name="ArrowRight" className="ml-2" size={20} />
               </Button>
             </div>
@@ -506,22 +510,34 @@ const Index = () => {
               <h4 className="font-semibold mb-4">Торговля</h4>
               <ul className="space-y-2 text-sm text-white/70">
                 <li>
-                  <a href="#" className="hover:text-white transition-colors">
+                  <a
+                    href="https://clck.biz/shared-reg?mode=iframe&partner_id=p37962p132354paf68"
+                    className="hover:text-white transition-colors"
+                  >
                     Валютные пары
                   </a>
                 </li>
                 <li>
-                  <a href="#" className="hover:text-white transition-colors">
+                  <a
+                    href="https://clck.biz/shared-reg?mode=iframe&partner_id=p37962p132354paf68"
+                    className="hover:text-white transition-colors"
+                  >
                     Акции
                   </a>
                 </li>
                 <li>
-                  <a href="#" className="hover:text-white transition-colors">
+                  <a
+                    href="https://clck.biz/shared-reg?mode=iframe&partner_id=p37962p132354paf68"
+                    className="hover:text-white transition-colors"
+                  >
                     Криптовалюты
                   </a>
                 </li>
                 <li>
-                  <a href="#" className="hover:text-white transition-colors">
+                  <a
+                    href="https://clck.biz/shared-reg?mode=iframe&partner_id=p37962p132354paf68"
+                    className="hover:text-white transition-colors"
+                  >
                     Товары
                   </a>
                 </li>
@@ -531,22 +547,34 @@ const Index = () => {
               <h4 className="font-semibold mb-4">Обучение</h4>
               <ul className="space-y-2 text-sm text-white/70">
                 <li>
-                  <a href="#" className="hover:text-white transition-colors">
+                  <a
+                    href="https://clck.biz/shared-reg?mode=iframe&partner_id=p37962p132354paf68"
+                    className="hover:text-white transition-colors"
+                  >
                     Видеоуроки
                   </a>
                 </li>
                 <li>
-                  <a href="#" className="hover:text-white transition-colors">
+                  <a
+                    href="https://clck.biz/shared-reg?mode=iframe&partner_id=p37962p132354paf68"
+                    className="hover:text-white transition-colors"
+                  >
                     Вебинары
                   </a>
                 </li>
                 <li>
-                  <a href="#" className="hover:text-white transition-colors">
+                  <a
+                    href="https://clck.biz/shared-reg?mode=iframe&partner_id=p37962p132354paf68"
+                    className="hover:text-white transition-colors"
+                  >
                     Аналитика
                   </a>
                 </li>
                 <li>
-                  <a href="#" className="hover:text-white transition-colors">
+                  <a
+                    href="https://clck.biz/shared-reg?mode=iframe&partner_id=p37962p132354paf68"
+                    className="hover:text-white transition-colors"
+                  >
                     Стратегии
                   </a>
                 </li>
@@ -556,22 +584,34 @@ const Index = () => {
               <h4 className="font-semibold mb-4">Поддержка</h4>
               <ul className="space-y-2 text-sm text-white/70">
                 <li>
-                  <a href="#" className="hover:text-white transition-colors">
+                  <a
+                    href="https://clck.biz/shared-reg?mode=iframe&partner_id=p37962p132354paf68"
+                    className="hover:text-white transition-colors"
+                  >
                     Связаться с нами
                   </a>
                 </li>
                 <li>
-                  <a href="#" className="hover:text-white transition-colors">
+                  <a
+                    href="https://clck.biz/shared-reg?mode=iframe&partner_id=p37962p132354paf68"
+                    className="hover:text-white transition-colors"
+                  >
                     FAQ
                   </a>
                 </li>
                 <li>
-                  <a href="#" className="hover:text-white transition-colors">
+                  <a
+                    href="https://clck.biz/shared-reg?mode=iframe&partner_id=p37962p132354paf68"
+                    className="hover:text-white transition-colors"
+                  >
                     Верификация
                   </a>
                 </li>
                 <li>
-                  <a href="#" className="hover:text-white transition-colors">
+                  <a
+                    href="https://clck.biz/shared-reg?mode=iframe&partner_id=p37962p132354paf68"
+                    className="hover:text-white transition-colors"
+                  >
                     Условия
                   </a>
                 </li>
@@ -581,10 +621,16 @@ const Index = () => {
           <div className="border-t border-white/10 pt-8 flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-white/60">
             <p>© 2024 Binarium. Все права защищены.</p>
             <div className="flex gap-6">
-              <a href="#" className="hover:text-white transition-colors">
+              <a
+                href="https://clck.biz/shared-reg?mode=iframe&partner_id=p37962p132354paf68"
+                className="hover:text-white transition-colors"
+              >
                 Политика конфиденциальности
               </a>
-              <a href="#" className="hover:text-white transition-colors">
+              <a
+                href="https://clck.biz/shared-reg?mode=iframe&partner_id=p37962p132354paf68"
+                className="hover:text-white transition-colors"
+              >
                 Условия использования
               </a>
             </div>
